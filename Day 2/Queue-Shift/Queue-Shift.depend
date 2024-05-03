@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701273591 source:d:\datastructure\mohamed tasks\day 2\queue-shift\main.cpp
+	<iostream>
+	<Queue.h>
+
+1701274381 d:\datastructure\mohamed tasks\day 2\queue-shift\include\queue.h
+	<iostream>
+

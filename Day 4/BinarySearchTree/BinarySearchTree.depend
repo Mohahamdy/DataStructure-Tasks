@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701522601 source:d:\datastructure\mohamed tasks\day 4\binarysearchtree\main.cpp
+	<iostream>
+	<Tree.h>
+
+1701522793 d:\datastructure\mohamed tasks\day 4\binarysearchtree\include\tree.h
+	<iostream>
+	<Node.h>
+
+1701511218 d:\datastructure\mohamed tasks\day 4\binarysearchtree\include\node.h
+

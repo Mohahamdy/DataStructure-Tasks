@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701359212 source:d:\datastructure\mohamed tasks\day 1\linkedlist\main.cpp
+	<iostream>
+	<Linkedlist.h>
+
+1701359085 d:\datastructure\mohamed tasks\day 1\linkedlist\include\linkedlist.h
+	<Node.h>
+	<iostream>
+
+1701339796 d:\datastructure\mohamed tasks\day 1\linkedlist\include\node.h
+
